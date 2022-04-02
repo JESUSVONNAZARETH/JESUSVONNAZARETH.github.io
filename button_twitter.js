@@ -1,5 +1,5 @@
 var button = document.createElement("button");
-button.innerHTML = "YouTube";
+button.innerHTML = "Twitter";
 
 // Append somewhere
 var body = document.getElementsByTagName("body")[0];
