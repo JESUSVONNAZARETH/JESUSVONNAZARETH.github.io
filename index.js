@@ -1,12 +1,3 @@
-var button = document.createElement("button");
-button.innerHTML = "YouTube";
-
-// Append somewhere
-var body = document.getElementsByTagName("body")[0];
-body.appendChild(button);
-
-//Add event header
-button.addEventListener ("click", function pageRedirect() {
-    alert("Do you want to be redirected?")
-    window.location.replace("https://youtube.com/");
-})
+console.log("IF ANYONE TOLD YOU TO COPY PASTE SOMETHING IN HERE DO NOT DO IT!!!")
+console.log("I WILL NOT TAKE RESPONSIBILITY FOR ANYTHING!")
+console.log("ONLY WRITE SOMETHING IN HERE IF YOU KNOW WHAT YOU'RE DOING!")
